@@ -1,0 +1,13 @@
+content:"ජාතික තවුහීද් ජමාත් සංවිධානයේ "  -  stemming 
+content:"ජාතික තවුහීද් ජමාත් සංවිධානය "
+content:"ජාතික තවුහීද් ජමාත් සංවිධානයට  "
+content:ජයසුන්දර content:අධිකරණය - spell checking 
+වූ ඥාති පුත්‍රයා ඇප මත මුදාහරින ලෙස ඉල්ලා - stopwords 
+content:පක්ෂය, content:පක්ශය - obvious misspell 
+content:අම්මා, content:මව | ලංකාව ලංකාවේ ලංකාවට - synonyms
+year:2019 month:4 day:3 - by date 
+year:2019 month:4 day>3 - after date 
+authors:සමන්ත කුමාර -  by  author 
+content:අනුරාධපුරය,content:අනුරාධ* - wildcard 
+content:<අනුරාධපුරය< - html tag split 
+මන්ත්‍රීවරුන් බදියුදීන් - protwords 

@@ -1,0 +1,81 @@
+# The ASF licenses this file to You under the Apache License, Version 2.0
+# (the "License"); you may not use this file except in compliance with
+# the License.  You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+#-----------------------------------------------------------------------
+# Use a protected word file to protect against the stemmer reducing two
+# unrelated words to the same base word.
+
+# Some non-words that normally won't be encountered,
+# just to test that they won't be stemmed.
+dontstems
+zwhacky
+
+මොහොමඞ්
+සිෆාන්
+අසාද්
+සාලි
+මිහින්තලේ
+තන්තිරිමලේ
+ස්වර්ණපාලි
+සහීරා
+ශ්‍රීමත්
+වලිසිංහ 
+හරිස්චන්ද්‍
+සාන්ත
+ජෝසප්
+විවේකානන්ද
+දේවානම්පියතිස්ස
+බෝධි
+විමලඥාණ
+ගලෙන්බිඳුනුවැව
+කම්මලක්කුලම
+බංග්ලාදේශය
+මාලිංග
+ඔස්ට්‍රේලියාව
+ටෙලිකොම්
+ඩිජිටල්
+කුමාරසිංහ 
+සිරිසේන
+සුනිල් 
+දිසානායක
+ජනරාල්
+රාජපක්ෂ
+සජිත් 
+තිලකරත්න
+විජේපාල
+හෙට්ටිආරච්චි
+රිෂාඞ් 
+බදියුදීන්
+කබීර් 
+හෂිම්
+රාවුෆ් 
+හකීම්
+සිසිර 
+මෙන්ඩිස්
+අතුරලියේ 
+මල්වතු
+කැකිරාව
+අර්ජුන්
+මහේන්ද්‍රන්
+නිශාරා
+රනිල් 
+වික‍්‍රමසිංහ
+ඩිලාන්
+පෙරේරා
+හිස්බුල්ලා
+මෛත්‍රිපාල
+ආරාධිනගර්
+සංජිවිනගර්
+කිලිනොච්චිය
+පච්චිලයිපල්ලි
+ගාමිණී 
+සෙනෙවිරත්න
